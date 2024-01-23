@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -71, y: 131}
+  m_AnchoredPosition: {x: 29, y: 131}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &405375594
@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The earth is doomed! '
+  m_text: You died!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -538,7 +538,7 @@ PrefabInstance:
     - target: {fileID: 1539760394070214693, guid: b7bfa8f75110b5a4c848dabf2ba7b1f0,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -160
+      value: -6
       objectReference: {fileID: 0}
     - target: {fileID: 1793139818143017339, guid: b7bfa8f75110b5a4c848dabf2ba7b1f0,
         type: 3}
@@ -648,7 +648,7 @@ PrefabInstance:
     - target: {fileID: 7896723036507157044, guid: b7bfa8f75110b5a4c848dabf2ba7b1f0,
         type: 3}
       propertyPath: m_text
-      value: Game Over
+      value: 2055
       objectReference: {fileID: 0}
     - target: {fileID: 7896723036507157044, guid: b7bfa8f75110b5a4c848dabf2ba7b1f0,
         type: 3}
